@@ -56,10 +56,10 @@ This project was created using the following technologies.
 
 
 ## Author
-
-- Github: [harshitaprajapati31](https://github.com/harshitaPrajapati31)
-- Linkedin: [harshita-prajapati31](https://www.linkedin.com/in/harshita-prajapati31/)
-- Email: [harshitap559@gmail.com](mailto:harshitap559@gmail.com)
+- Portfolio: [harshitaprajapati]( https://portfolio-hp-one.vercel.app/about)
+- Github: [harshitaprajapati31]( https://github.com/harshitaPrajapati31)
+- Linkedin: [harshita-prajapati31]( https://www.linkedin.com/in/harshita-prajapati31/)
+- Email: [harshitap559@gmail.com]( mailto:harshitap559@gmail.com)
 
 ## License
 
