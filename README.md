@@ -56,7 +56,7 @@ This project was created using the following technologies.
 
 
 ## Author
-- Portfolio: [Harshitaportfolio](https://berthutapea.vercel.app/)
+
 - Github: [harshitaprajapati31](https://github.com/harshitaPrajapati31)
 - Linkedin: [harshita-prajapati31](https://www.linkedin.com/in/harshita-prajapati31/)
 - Email: [harshitap559@gmail.com](mailto:harshitap559@gmail.com)

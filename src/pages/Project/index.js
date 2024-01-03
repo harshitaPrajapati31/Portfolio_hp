@@ -177,7 +177,7 @@ const Project = () => {
                   {/* Right side */}
                   <div className="md:w-1/2 p-8">
                     <h2 className="text-bold text-[20px] md:text-[26px] mb-4">
-                      UrbanCareHub Ecommerce
+                      UrbanCartHub Ecommerce
                     </h2>
                     <p className="text-lg md:text-xl mb-6">
                     With a commitment to simplicity and a sleek design, making it easy for customers to find and purchase the products they desire with enhancing user experience.

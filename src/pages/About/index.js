@@ -41,7 +41,7 @@ const About = () => {
             <img
               src= {Aboutpic}
               alt="Harshita Prajapati"
-              className=" w-100 h-70 mt-8"
+              className=" w-100 h-70 mt-6 translate-y-[-20%]"
               title="Harshita Prajapati"
             />
  
@@ -49,7 +49,7 @@ const About = () => {
 
           </motion.div>
           <motion.div
-            className=""
+            className="sm:mb-6"
             initial={{ x: 200, opacity: 0 }}
             animate={{
               x: 0,
@@ -57,10 +57,10 @@ const About = () => {
               transition: { duration: 1, delay: 1.25 },
             }}
           >
-            <h1 className="text-4xl font-semibold mb-4 text-center translate-y-[-380%] sm:translate-y-[-0%] sm:text-3xl sm:mb-2 md:text-left">Harshita Prajapati</h1>
-            <div className="my-8">
+            <h1 className="text-4xl font-semibold mb-2 text-center translate-y-[-250%] sm:translate-y-[-0%] sm:text-3xl sm:mb-2 md:text-left">Harshita Prajapati</h1>
+            <div className="my-3">
               <TypeAnimation
-                className="text-2xl text-primary font-bold text-center translate-y-[-500%] sm:translate-y-[-0%]  sm:text-2xl sm:mb-2 md:text-left"
+                className="text-2xl text-primary font-bold text-center translate-y-[-320%] sm:translate-y-[-0%]  sm:text-2xl sm:mb-6 md:text-left"
                 cursor={true}
                 sequence={[
                  
@@ -71,7 +71,7 @@ const About = () => {
                 repeat={Infinity}
               />
             </div>
-            <p className="text-neutral font-medium text-center translate-y-[-100%] sm:translate-y-[-0%] sm:mb-2 md:text-left">
+            <p className="text-neutral font-medium text-center translate-y-[-30%] sm:translate-y-[-0%] sm:mb-2 md:text-left">
             As a Front-End Developer, I possess an impressive arsenal of skills in HTML, CSS, JavaScript, React, Tailwind, and SCSS. I excel in designing and maintaining responsive websites that offer a smooth user experience. My expertise lies in crafting dynamic, engaging interfaces through writing clean and optimized code and utilizing cutting-edge development tools and techniques. I am also a team player who thrives in collaborating with cross-functional teams to produce outstanding web applications.
               {/* Dedicated Front-end developer. Capable to solve working problems.
               Passionate about learning & development to reach the target. Eager
@@ -79,7 +79,7 @@ const About = () => {
               maximize user efficiency. */}
             </p>
             <br />
-            <p className="text-neutral font-medium text-center translate-y-[-150%] sm:translate-y-[-0%] sm:mb-2 md:text-left">
+            <p className="text-neutral font-medium text-center translate-y-[-90%] sm:translate-y-[-0%] sm:mb-2 md:text-left">
               My passion for solving complex problems and creating innovative
               solutions drives me to stay up-to-date with the latest
               technologies and trends in the industry.

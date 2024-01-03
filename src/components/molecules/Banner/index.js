@@ -28,12 +28,12 @@ const Banner = () => {
         animate={{ x: 0 }}
         transition={{ duration: 1 }}
       >
-        <h2 className="text-neutral text-xl font-medium translate-y-[-90%] sm:translate-y-[-0%]">Hello, I'm</h2>
-        <h1 className="text-4xl font-semibold mb-0 translate-y-[-50%] sm:translate-y-[-0%]">Harshita Prajapati</h1>
+        <h2 className="text-neutral text-xl font-medium translate-y-[-90%] sm:translate-y-[-5%] mb-2">Hello, I'm</h2>
+        <h1 className="text-4xl sm:text-3xl font-semibold mb-0 translate-y-[-50%] sm:translate-y-[2%]">Harshita Prajapati</h1>
         <img src={handimg} alt="" className="w-18 h-14 absolute right-52 top-2 wavee" ></img>
         <div className="my-1">
           <TypeAnimation
-            className="text-2xl text-primary font-bold translate-y-[-80%] sm:translate-y-[-0%] mb-6"
+            className="text-2xl text-primary font-bold translate-y-[-80%] sm:translate-y-[2%] mb-4"
             cursor={true}
             sequence={[
               "A Front-end Developer",
@@ -43,7 +43,7 @@ const Banner = () => {
             repeat={Infinity}
           />
         </div>
-        <p className="text-neutral max-w-xl mb-6 font-medium translate-y-[-20%] sm:translate-y-[-0%]  ">
+        <p className="text-neutral max-w-xl mb-6 font-medium translate-y-[-5%] sm:translate-y-[-0%]  ">
         As a Front-End Developer, I possess an impressive arsenal of skills in HTML, CSS, JavaScript, React, Tailwind, and SCSS. I excel in designing and maintaining responsive websites that offer a smooth user experience. My expertise lies in crafting dynamic, engaging interfaces through writing clean and optimized code and utilizing cutting-edge development tools and techniques. I am also a team player who thrives in collaborating with cross-functional teams to produce outstanding web applications.
           {/* I am a Front-end Developer. I am very passionate to my work and
           dedicated to explore New Tools And Technologies. */}
